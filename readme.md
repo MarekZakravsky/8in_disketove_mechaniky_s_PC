@@ -1,6 +1,24 @@
-Ročníkový projekt adaptace 8 palcové disketové mechaniky pro použítí se standardním počítačem
+# Ročníkový projekt: adaptace 8 palcové disketové mechaniky pro použítí se "standardním" počítačem
 
-1.0 - Napájení
+
+
+
+## 🚩 Obsah
+
+- [Packages](#-packages)
+- [Napájení](#-2.0-Napájení)
+- [Features](#-features)
+- [Examples](#-examples)
+- [Browser Support](#-browser-support)
+- [Pull Request Steps](#-pull-request-steps)
+- [Contributing](#-contributing)
+- [TOAST UI Family](#-toast-ui-family)
+- [Used By](#-used-by)
+- [License](#-license)
+
+
+
+## 2.0-Napájení
 
 8 palcové disketoé mechaniky (v mém případě shugart 801) vyzadují pro provoz čtyři různá napětí
 a to :
