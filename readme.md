@@ -67,7 +67,7 @@ vyprojektovat, nechat si na zakázku vyrobit a vlastnoručně osadit vlastní de
 deska v EasyEda:
 
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/Schematic_Floppy-disk-drive-adapter_2024-05-16.png" />
-- elektrické schéma inspirováno [obrázek](https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/s-l1610.png) pozn. tento obrázek není mé dílo pochází z [Ebay](https://www.ebay.com/itm/115729590176)
+  elektrické schéma inspirováno [obrázek](https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/s-l1610.png) pozn. tento obrázek není mé dílo pochází z [Ebay](https://www.ebay.com/itm/115729590176)
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/deska.PNG" />
 - see-through obou stran desky
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/deska3d.PNG" />
