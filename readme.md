@@ -60,15 +60,17 @@ Takže po pár dalších lapálií s pojistkami jsou aktuálně provozuschopné 
 
 U dat už se konečně dostáváme od elektrotechniky k IT, jedna z nejlepčích věcí na 8" mechanikách je že i když mají 50ti pinový card-edge konektor tak jsou téměr plně kompatibilní s pozdějším standardem vedeným 34 pinovým rorhraním a IDC konektory
 takže vlastně stačí pouze vytvořit vhodný adaptér na což je několik postupů, buď lze vzít 50p a 34p IDC F konektory a zapájet mezi ně drátky nebo se dá verze koupit na Ebayi nebo a to je cesta kterou jsem si vybral může človek s pomocí trocha reverzního inženýrství
-vyprojektovat, nechat si na zakázku vyrobit a vlastnoručně osadit vlastní desky. Za úvod do SW na projektování PCB chci poděkovat Jurovi že mi značně usnadnil výběr vhodné stránky nakonec jsem použil stránku EasyEda
+vyprojektovat, nechat si na zakázku vyrobit a vlastnoručně osadit vlastní desky. Za úvod do SW na projektování PCB chci poděkovat Jurovi že mi značně usnadnil výběr vhodné stránky nakonec jsem použil stránku EasyEda.
 
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/Edaeasy.PNG" />
 
 deska v EasyEda:
 
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/Schematic_Floppy-disk-drive-adapter_2024-05-16.png" />
-  elektrické schéma inspirováno [obrázek](https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/s-l1610.png) pozn. tento obrázek není mé dílo pochází z [Ebay](https://www.ebay.com/itm/115729590176)
+ - elektrické schéma inspirováno [obrázek](https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/s-l1610.png) pozn. tento obrázek není mé dílo pochází z [Ebay](https://www.ebay.com/itm/115729590176)
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/deska.PNG" />
 - see-through obou stran desky
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/deska3d.PNG" />
 - 3D render
+Následně jsem si dle návrhu objednal desky na stránce JLCPCB
+výsledný produkt:
