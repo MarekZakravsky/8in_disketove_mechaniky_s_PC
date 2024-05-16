@@ -56,7 +56,7 @@ pro mně již pověstně nespolehlivé filtry TESLA řady TC naštěstí se tato
 Tyto dva zdroje pracují spolu a jejich vývody jsou vedeny do konektoru 1-480270-0 jehož pinout je též uveden v [manuál](https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/SA800%20OEM%20Manual.pdf#page=<27>) strana 27.
 Takže po pár dalších lapálií s pojistkami jsou aktuálně provozuschopné všechny zroje a DC je funkční.
 
-##Data
+## Data
 
 U dat už se konečně dostáváme od elektrotechniky k IT, jedna z nejlepčích věcí na 8" mechanikách je že i když mají 50ti pinový card-edge konektor tak jsou téměr plně kompatibilní s pozdějším standardem vedeným 34 pinovým rorhraním a IDC konektory
 takže vlastně stačí pouze vytvořit vhodný adaptér na což je několik postupů, buď lze vzít 50p a 34p IDC F konektory a zapájet mezi ně drátky nebo se dá verze koupit na Ebayi nebo a to je cesta kterou jsem si vybral může človek s pomocí trocha reverzního inženýrství
@@ -64,4 +64,11 @@ vyprojektovat, nechat si na zakázku vyrobit a vlastnoručně osadit vlastní de
 
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/Edaeasy.PNG" />
 
-![https://easyeda.com/](https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/Edaeasy.PNG)
+deska v EasyEda:
+
+<img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/Schematic_Floppy-disk-drive-adapter_2024-05-16.png" />
+- elektrické schéma inspirováno [obrázek](https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/s-l1610.png) pozn. tento obrázek není mé dílo pochází z [Ebay](https://www.ebay.com/itm/115729590176)
+<img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/deska.PNG" />
+- see-through obou stran desky
+<img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/deska3d.PNG" />
+- 3D render
