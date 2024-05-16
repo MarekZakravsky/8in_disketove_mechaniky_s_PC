@@ -5,14 +5,19 @@
 
 ## 🚩 Obsah
 
-- [Úvod](#-Úvod)
-- [Napájení](#-Napájení)
+- [Úvod](#Úvod)
+- [Napájení](#Napájení)
 
 ## Úvod
 8" disketové mechaniky jsou největším formátem (velikostně) ze třech "běžných" velikostí disket a i když se nikdy z praktických důvodů nerošířil do domácích a osobních počítačů
-i tak si našel své místo v minipočítačích (např.: CDC centurion, TESLA SAPI-1) a ranných průmyslových počítačíchze kterých zřejmě pochazějí mé jednotky které mi daroval pan Petr Laštovic
+i tak si našel své místo v minipočítačích (např.: CDC centurion [Youtube.com](https://www.youtube.com/playlist?list=PLnw98JPyObn0wJFdbcRDP7LMz8Aw2T97V), TESLA SAPI-1 [Web o SAPI](http://www.sapi.cz/)) a ranných průmyslových počítačích ze kterých zřejmě pochazějí mé jednotky které mi daroval pan Petr Laštovic
 a zřejmě pocházejí z přístoje jako tento :
+
+
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/linotype-hell-linotronic-330-imagesetter-p30516837_2.jpg" />
+
+
+
 
 
 ## Napájení
