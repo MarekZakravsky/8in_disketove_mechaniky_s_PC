@@ -5,28 +5,28 @@
 
 ## 🚩 Obsah
 
-- [Úvod](#-1.0-Úvod)
-- [Napájení](#-2.0-Napájení)
-- [Features](#-features)
-- [Examples](#-examples)
-- [Browser Support](#-browser-support)
-- [Pull Request Steps](#-pull-request-steps)
-- [Contributing](#-contributing)
-- [TOAST UI Family](#-toast-ui-family)
-- [Used By](#-used-by)
-- [License](#-license)
+- [Úvod](#-Úvod)
+- [Napájení](#-Napájení)
 
-## 1.0-Úvod
+## Úvod
+8" disketové mechaniky jsou největším formátem (velikostně) ze třech "běžných" velikostí disket a i když se nikdy z praktických důvodů nerošířil do domácích a osobních počítačů
+i tak si našel 
 
 
-
-## 2.0-Napájení
+## Napájení
 
 8 palcové disketoé mechaniky (v mém případě shugart 801) vyzadují pro provoz čtyři různá napětí
 a to :
+|Napětí|Popis|
+| --- | --- |
+|+5VDC| Napájení logiky |
+|-5VDC| Napájení logiky |
+|+24VDC| Pohon krokového motoru hlavy|
+|+230VAC| Pohon vřetene jednotky|
 
-+5VDC
--5VDC
-+24VDC
-+230VAC
+
+
+
+
+
 
