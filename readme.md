@@ -9,3 +9,4 @@ a to :
 -5VDC
 +24VDC
 +230VAC
+
