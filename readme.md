@@ -8,7 +8,7 @@
 - [Úvod](#Úvod)
 - [Napájení](#Napájení)
 - [Data](#Data)
-- [Závěr](#Funguje!)
+- [Závěr](#Funguje)
 
 ## Úvod
 8" disketové mechaniky jsou největším formátem (velikostně) ze třech "běžných" velikostí disket a i když se nikdy z praktických důvodů nerošířil do domácích a osobních počítačů
