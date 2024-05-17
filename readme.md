@@ -59,7 +59,7 @@ Takže po pár dalších lapálií s pojistkami jsou aktuálně provozuschopné 
 ## Data
 
 U dat už se konečně dostáváme od elektrotechniky k IT, jedna z nejlepčích věcí na 8" mechanikách je že i když mají 50ti pinový card-edge konektor tak jsou téměr plně kompatibilní s pozdějším standardem vedeným 34 pinovým rorhraním a IDC konektory
-takže vlastně stačí pouze vytvořit vhodný adaptér na což je několik postupů, buď lze vzít 50p a 34p IDC F konektory a zapájet mezi ně drátky nebo se dá verze koupit na Ebayi nebo a to je cesta kterou jsem si vybral může človek s pomocí trocha reverzního inženýrství
+takže vlastně stačí pouze vytvořit vhodný adaptér na což je několik postupů, buď lze vzít 50p a 34p IDC F konektory a zapájet mezi ně drátky nebo se dá verze koupit na Ebay nebo a to je cesta kterou jsem si vybral může človek s pomocí trocha reverzního inženýrství
 vyprojektovat, nechat si na zakázku vyrobit a vlastnoručně osadit vlastní desky. Za úvod do SW na projektování PCB chci poděkovat Jurovi že mi značně usnadnil výběr vhodné stránky nakonec jsem použil stránku EasyEda.
 
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/Edaeasy.PNG" />
@@ -72,5 +72,21 @@ deska v EasyEda:
 - see-through obou stran desky
 <img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/deska3d.PNG" />
 - 3D render
+
+
+
 Následně jsem si dle návrhu objednal desky na stránce JLCPCB
+
+
 výsledný produkt:
+
+<img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/IMG20240517180648.jpg"  />
+
+### Zapojení 
+Pro připojení deska - mechanika používám originální kabel od mechaniky, je to 50ti žilový plochý kabel osazen dvěma padesátipinovými card-edge konektory a jedním 50p IDC konektorem, vše vedeno straight-through.
+Připojení deska počítač provedeno klasickým FDD kabelem a je zapojeno za překroucením (drive A:).
+
+<img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/IMG20240517181731.jpg"  />
+
+
+Deska je pak přes jumpery nakonfigurována pro jednostrannou mechaniku s adresací DS1(2 - Shugart požívá jedničkovou indexaci) avšak s touto deskou se toho dá vyladit mnohem více viz [Návod z Ebay](https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/s-l1601.png) - eventuálne snad dokážu přelozit a adaptovat na můj lehce odlišný layout desky.
