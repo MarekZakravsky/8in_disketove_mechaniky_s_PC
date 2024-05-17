@@ -8,6 +8,7 @@
 - [Úvod](#Úvod)
 - [Napájení](#Napájení)
 - [Data](#Data)
+- [Závěr](#Funguje!)
 
 ## Úvod
 8" disketové mechaniky jsou největším formátem (velikostně) ze třech "běžných" velikostí disket a i když se nikdy z praktických důvodů nerošířil do domácích a osobních počítačů
@@ -90,3 +91,30 @@ Připojení deska počítač provedeno klasickým FDD kabelem a je zapojeno za p
 
 
 Deska je pak přes jumpery nakonfigurována pro jednostrannou mechaniku s adresací DS1(2 - Shugart požívá jedničkovou indexaci) avšak s touto deskou se toho dá vyladit mnohem více viz [Návod z Ebay](https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/s-l1601.png) - eventuálne snad dokážu přelozit a adaptovat na můj lehce odlišný layout desky.
+
+
+## Funguje!
+
+A tak konečně, po tom všem, funguje!
+K elementárnímu ovládání disketové mechaniky využívám MS-DOS program jménem [ImageDisk](http://dunfield.classiccmp.org/img/) od autora [Davida Dunfielda](https://dunfield.themindfactory.com/)
+a po ne zcela intuitivním prvotním nastavení (8" diskety se na logické úrovni liší v téměř všech parametrech (sect./track ...)) musím uznat že software je to velmi mocný ale ne všemocný hlavně díky tomu že využívá formát .imd se kterým se obtížně pracuje.
+
+<img src="https://github.com/MarekZakravsky/8in_disketove_mechaniky_s_PC/blob/main/images/IMG20240517201537.jpg"  />
+ na fotce výše je již kompletní sestava a spuštěn ImageDisk (jen jako zajímavost: MS-DOS programy jsou porporované až do WINDOWS 98 na kterém na foto i IMD běží).
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
